@@ -1,4 +1,4 @@
-# 🚗 Lane Detection & Motor Control with Raspberry Pi
+#  Lane Detection & Motor Control with Raspberry Pi
 
 This project is a **prototype** for detecting road lane lines and controlling the movement of a small robot or vehicle using a **Raspberry Pi**.
 The goal of this initial test is to implement a simple computer vision system that identifies road lanes and calculates the steering angle to guide the vehicle automatically.
