@@ -21,7 +21,7 @@ This module represents an **initial test version** of the **Traffic Sign Recogni
 Although it currently runs as a standalone GUI-based demo, the structure allows for future expansion — including **real-time video stream processing and full-scale autonomous navigation integration**.
 
 
-### 🖼️ GUI Preview
+### GUI Preview
 The user interface for testing the traffic sign recognition model is shown below:
 
 ![Traffic Sign Recognition GUI](image/Screenshot.png)
